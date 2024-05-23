@@ -16,7 +16,7 @@ Create a new Order
 
 Products Page  
 
-![Example](images/products.png)
+![Example](images/products_page.png)
 
 
 Add new Product 
@@ -27,3 +27,26 @@ Add new Product
 Sales Data  
 
 ![Example](images/salesdata.png)
+
+
+MySQL DB : Show Tables 
+
+![Example](images/tables.png)
+
+Table Descriptions :
+
+Products Tables
+
+![Example](images/products_table.png)
+
+Orders Tables
+
+![Example](images/orders1.png)
+
+Order Details Tables
+
+![Example](images/ordersdetails.png)
+
+Units Tables
+
+![Example](images/units.png)
